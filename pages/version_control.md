@@ -39,4 +39,4 @@ merging simultaneous changes, or just keeping in sync.)
 
 ---
 
-Now go to the page about [other resources on reproducible research](resources.html).
+That's it! Consider the [resources page](resources.html).

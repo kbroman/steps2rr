@@ -8,7 +8,7 @@ reproducibility is to be _organized_. Ideally, the names of files and
 subdirectories are self-explanatory, so that one can tell at a glance
 what data files contain, what scripts do, and what came from what.
 
-- **Encapsulate everytihng within one directory**. Have a single
+- **Encapsulate everything within one directory**. Have a single
     directory for a project, containing all of the data, code, and
     results for that project. This makes it easier to find things, or
     to zip it all up and hand it off to someone else.

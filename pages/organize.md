@@ -47,7 +47,7 @@ what data files contain, what scripts do, and what came from what.
 - **Avoid using &ldquo;final&rdquo; in a file name**. Nothing is ever
     final, and if you call something &ldquo;final&rdquo; you'll end up
     with things like `cleandata_final_rev3.csv`. If you want to keep
-    multiple versions of a final, just append a number, like
+    multiple versions of a file, just append a number, like
     `cleandata_v8.csv`.
 
 - **Write ReadMe files**. Even if you've organized and named things
@@ -56,7 +56,7 @@ what data files contain, what scripts do, and what came from what.
     [Markdown](http://daringfireball.net/projects/markdown/)) in the
     main directory and perhaps also in each subdirectory may be
     sufficient. Describe the files and the process. And keep the
-    ReadMe files up to date, as things are added or changed.
+    ReadMe files up to date as things are added or changed.
 
 ---
 

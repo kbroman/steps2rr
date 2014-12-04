@@ -17,7 +17,7 @@ command that re-runs everything?
 
 You could do this with a single all-encompassing script. Even better,
 though, is to use [GNU Make](http://www.gnu.org/software/make). I
-would argument that Make is the single most important tool for
+would argue that Make is the single most important tool for
 reproducible research.
 
 [GNU Make](http://www.gnu.org/software/make) was written for compiling

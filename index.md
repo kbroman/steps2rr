@@ -15,7 +15,7 @@ Organizing analyses so that they are reproducible is not easy. It
 requires diligence and a considerable investment of time: to learn new
 computational tools, and to organize and document analyses as you go.
 
-And _partially reproducible_ is better than _not at all
+But _partially reproducible_ is better than _not at all
 reproducible_. Just try to make your next paper or project better organized
 than the last.
 
@@ -34,7 +34,7 @@ I'm focusing primarily on [R](http://www.r-project.org), because
 that's what I know, but I'll try to at least sketch what a
 [python](http://www.python.org) person might do.
 
-You shouldn't try to do these things all at once; start with one, or part of
+Again, you shouldn't try to do these things all at once; start with one, or part of
 one. Then in your next project, do that plus another thing.
 
 - [Everything with a script](pages/scripts.html)

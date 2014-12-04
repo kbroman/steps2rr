@@ -5,6 +5,8 @@ title: Organize your data and code
 
 - Separate data from code
 - Separate raw data from derived data and other data summaries
+- Encapsulate everything within one directory
+- Use relative paths (never absolute paths)
 
 ---
 

@@ -49,7 +49,7 @@ one. Then in your next project, do that plus another thing.
 ---
 
 
-The source for this minimal tutorial is [on github](http://github.com/kbroman/step2rr).
+The source for this minimal tutorial is [on github](http://github.com/kbroman/steps2rr).
 If you have suggestions for changes or improvements,
 [submit an issue](https://github.com/kbroman/steps2rr/issues).
 

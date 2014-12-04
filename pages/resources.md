@@ -25,7 +25,7 @@ There are tons of useful resources on reproducible research.
 - [Dynamic documents with R and knitr](http://www.amazon.com/exec/obidos/ASIN/1482203537/7210-20)
 - [Reproducible research with R and RStudio](http://www.amazon.com/exec/obidos/ASIN/1466572841/7210-20)
 - [Implementing reproducible research](http://www.amazon.com/exec/obidos/ASIN/1466561599/7210-20)
-  (PDFs of chapters at [ocf.io](https://osf.io/s9tya/)!)
+  (PDFs of chapters at [ocf.io](https://osf.io/s9tya/))
 
 
 ### Karl's tutorials

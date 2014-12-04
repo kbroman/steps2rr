@@ -7,4 +7,6 @@ title: Automate the process, and document dependencies
 - Use make
 - Other tools?
 
+---
+
 Now go to the page about [turning scripts into reproducible reports](reports.html).

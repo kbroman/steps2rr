@@ -8,4 +8,6 @@ title: Everything with a script
 - different steps of data cleaning in a script
 - each aspect of the analysis as a script
 
+---
+
 Now go to the page about [organizing your data and code](organize.html).

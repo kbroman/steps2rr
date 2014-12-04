@@ -8,4 +8,6 @@ title: Turn repeated code into functions
 - Also possible to reuse those functions for other purposes
 - Particularly valuable for code that makes a graph
 
+---
+
 Now go to the page about [packaging functions for reuse](packages.html).

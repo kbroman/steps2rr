@@ -8,5 +8,6 @@ title: Turn scripts into reproducible reports
   such as different figures that you looked at.
 - Use R Markdown and knitr, or an iPython notebook
 
+---
 
 Now go to the page about [turning repeated code into functions](functions.html).

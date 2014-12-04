@@ -51,7 +51,8 @@ one. Then in your next project, do that plus another thing.
 
 The source for this minimal tutorial is [on github](http://github.com/kbroman/steps2rr).
 If you have suggestions for changes or improvements,
-[submit an issue](https://github.com/kbroman/steps2rr/issues).
+[submit an issue](https://github.com/kbroman/steps2rr/issues) (or just
+[send me an email](http://kbroman.org/pages/about.html)).
 
 
 Also see my

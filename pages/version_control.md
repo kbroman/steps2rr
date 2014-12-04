@@ -14,6 +14,8 @@ great, but formal version control:
 - Can make it easier to explore the history of changes
 - Enables you to go back to an earlier state to find the source of a bug
 - Allows you to try things out without worrying about breaking the things that work
+- Can make it easier to incorporate changes from collaborators, even
+  if you're all making simultaneous changes to the same set of files.
 
 There are a number of different version control systems, but I'd
 recommend starting with [git](http://git-scm.com), because it's widely

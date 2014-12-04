@@ -60,4 +60,4 @@ what data files contain, what scripts do, and what came from what.
 
 ---
 
-Now go to the page about [automating the process and documenting dependencies](automate.html).
+Now go to the page about [automating the process](automate.html).

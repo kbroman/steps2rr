@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Automate the process, and document dependencies
+title: Automate the process
 ---
 
-- Write ReadMe files
 - Use make
 - Other tools?
 

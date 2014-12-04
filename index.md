@@ -39,7 +39,7 @@ one. Then in your next project, do that plus another thing.
 
 - [Everything with a script](pages/scripts.html)
 - [Organize your data and code](pages/organize.html)
-- [Automate the process, and document dependencies](pages/automate.html)
+- [Automate the process](pages/automate.html)
 - [Turn scripts into reproducible reports](pages/reports.html)
 - [Turn repeated code into functions](pages/functions.html)
 - [Package functions for reuse](pages/packages.html)

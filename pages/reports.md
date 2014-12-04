@@ -25,8 +25,8 @@ text that describes what you're doing and why you're doing it.
 
 With either R Markdown/knitr or IPython notebooks, chunks of code will
 be run and figures created, and a nicely formatted report will be
-produced. Rather just running a script, you'll compile the report;
-compiling the report will do the work that the script would have done,
+produced. Rather just running a script, you'll compile the report.
+Compiling the report will do the work that the script would have done,
 but will also produce a report that describes the what and the _why_,
 with figures and tables that support your decisions.
 

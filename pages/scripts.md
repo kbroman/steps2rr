@@ -9,7 +9,9 @@ accomplished via _code_. Pointing and clicking, and copy-paste, are
 not reproducible.
 
 - Ideally, **get the data in the most-raw form** possible. And get any/all
-  data and metadata possible.
+  data and metadata possible. And keep track of the _provenance_ of
+  all data files. (You don't want to be asking, &ldquo;Where did these
+  microarray annotations come from?&rdquo;)
 
 - If you need to **download external data**, such as from the web, it's
   best to do so via a script, for example with

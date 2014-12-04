@@ -1,6 +1,6 @@
 ---
 layout: page
-title: initial steps towards reproducible research
+title: initial steps toward reproducible research
 ---
 
 A minimal standard for data analysis and other scientific computations is
@@ -19,7 +19,7 @@ But _partially reproducible_ is better than _not at all
 reproducible_. Just try to make your next paper or project better organized
 than the last.
 
-There are many paths towards reproducible research, and you shouldn't
+There are many paths toward reproducible research, and you shouldn't
 try to change all aspects your current practices all at once. Identify
 one weakness, adopt an improved approach, refine that a bit, and then
 move on to the next thing.

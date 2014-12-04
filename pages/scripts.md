@@ -4,12 +4,12 @@ title: Everything with a script
 ---
 
 The most basic aspect of reproducible research is that everything
-you do (convert data files, clean data, analyse data) should be
+you do (convert data files, clean data, analyze data) should be
 accomplished via _code_. Pointing and clicking, and copy-paste, are
 not reproducible.
 
 - Ideally, **get the data in the most-raw form** possible. And get any/all
-  data and metadata possible. And keep track of the _provenance_ of
+  data and meta data possible. And keep track of the _provenance_ of
   all data files. (You don't want to be asking, &ldquo;Where did these
   microarray annotations come from?&rdquo;)
 

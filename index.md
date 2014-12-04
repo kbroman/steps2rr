@@ -28,7 +28,14 @@ Inspired by
 [Christine Bahlai](https://practicaldatamanagement.wordpress.com)'s
 &ldquo;[Baby steps for the open-curious](https://practicaldatamanagement.wordpress.com/2014/10/23/baby-steps-for-the-open-curious/),&rdquo;
 I thought I'd write some suggestions for the initial steps to take
-towards reproducible research.
+towards making one's work reproducible.
+
+I'm focusing primarily on [R](http://www.r-project.org), because
+that's what I know, but I'll try to at least sketch what a
+[python](http://www.python.org) person might do.
+
+You shouldn't try to do these things all at once; start with one, or part of
+one. Then in your next project, do that plus another thing.
 
 - [Everything with a script](pages/scripts.html)
 - [Organize your data and code](pages/organize.html)

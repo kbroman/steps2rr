@@ -39,4 +39,4 @@ merging simultaneous changes, or just keeping in sync.)
 
 ---
 
-That's it! Consider the [resources page](resources.html).
+Now go to the page about [software licenses](licenses.html).

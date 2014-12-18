@@ -17,7 +17,7 @@ not reproducible.
   best to do so via a script, for example with
   [wget](http://www.gnu.org/software/wget/) or
   [curl](http://curl.haxx.se/). (Consider the R package
-  [httr](https://github.com/hadley/httr).  If that's not feasible,
+  [httr](https://github.com/hadley/httr).)  If that's not feasible,
   at least document the source of the data (and perhaps the date/time
   it was acquired).
 

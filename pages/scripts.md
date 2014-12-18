@@ -15,7 +15,9 @@ not reproducible.
 
 - If you need to **download external data**, such as from the web, it's
   best to do so via a script, for example with
-  [wget](http://www.gnu.org/software/wget/). If that's not feasible,
+  [wget](http://www.gnu.org/software/wget/) or
+  [curl](http://curl.haxx.se/). (Consider the R package
+  [httr](https://github.com/hadley/httr).  If that's not feasible,
   at least document the source of the data (and perhaps the date/time
   it was acquired).
 

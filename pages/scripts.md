@@ -52,6 +52,16 @@ not reproducible.
   functions, to make the code easier to follow and to avoid repeated
   code. [More on this later](functions.html).
 
+- **Save your seeds for random number generation**. While in many
+  cases it is useful to re-run a simulation with independent
+  replicates, if you want your simulations to be fully reproducible,
+  use a defined seed and save it in your script. In R, I'll typically
+  use `runif(1, 0, 10^8)` in an interactive session, and then copy
+  that number into a line at the top of my script, like
+  `set.seed(91820205)`.  If I'm running multiple batches of
+  simulations in parallel, I'll typically use something like
+  `set.seed(91820205 + i)` for batch `i`.
+
 Initially, it may seem like a hassle to do many of these things via
 code rather than by hand. But if the primary data should change (and
 it often does), repeating all of that by-hand extraction and editing

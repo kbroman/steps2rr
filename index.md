@@ -21,7 +21,7 @@ reproducible_. Just try to make your next paper or project better organized
 than the last.
 
 There are many paths toward reproducible research, and you shouldn't
-try to change all aspects your current practices all at once. Identify
+try to change all aspects of your current practices all at once. Identify
 one weakness, adopt an improved approach, refine that a bit, and then
 move on to the next thing.
 

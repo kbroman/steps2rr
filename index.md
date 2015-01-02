@@ -1,7 +1,8 @@
 ---
 layout: page
 title: initial steps toward reproducible research
-description: Suggestions of how to get started, in seeking to adopt a reproducible workflow for one's computational research.
+description: Suggestions of how to get started, in seeking to adopt a
+             reproducible workflow for one's computational research.
 ---
 
 A minimal standard for data analysis and other scientific computations is

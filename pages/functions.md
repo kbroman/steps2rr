@@ -14,7 +14,7 @@ which produce the two figures for
 (Those scripts could use some comments, couldn't they?)
 
 Scripts often contain long stretches of repeated code, too. You do
-they same thing a number of times, by copy-paste-edit.
+the same thing a number of times, by copy-paste-edit.
 
 It's better to break things up into functions.
 

@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Organize your data and code
+description: Brief discussion of file/directory organization, perhaps
+             the most important step to take towards ease of
+             reproducibility.
 ---
 
 Perhaps the most important step to take towards ease of

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Resources
+description: Links to resources on reproducible research and related
+             tools.
 ---
 
 ### General

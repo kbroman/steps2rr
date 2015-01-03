@@ -1,6 +1,8 @@
 ---
 layout: page
 title: License your software
+description: Brief discussion of software copyright and the importance
+             of choosing a software license.
 ---
 
 Your interest in making your computational work reproducible may be

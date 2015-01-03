@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Automate the process
+description: Brief discussion of the use of GNU Make for automation,
+             as part of a reproducible research workflow.
 ---
 
 You have the full process encoded in scripts, and the data and

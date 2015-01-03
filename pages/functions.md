@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Turn repeated code into functions
+description: A key step towards making your code understandable (and
+             reusable) is to make it modular, including breaking
+             things up into functions.
 ---
 
 Scripts for data cleaning or analysis (or that produce graphs) often

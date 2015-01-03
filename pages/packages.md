@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Package functions for reuse
+description: Brief discussion of the value of turning R code into a
+             package, with links to tutorials.
 ---
 
 Pulling out the major parts of your scripts as separate functions has

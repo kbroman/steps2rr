@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Everything with a script
+description: The most basic aspect of reproducible research is that
+             everything you do should be accomplished via code. (No
+             pointing and clicking!)
 ---
 
 The most basic aspect of reproducible research is that everything

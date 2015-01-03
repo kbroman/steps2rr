@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Use version control
+description: Brief discussion of the value of using formal version
+             control, though it's not strictly necessary for
+             reproducibility.
 ---
 
 [Version control](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)

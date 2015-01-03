@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Turn scripts into reproducible reports
+description: Brief discussion of the use of literate programming
+             (using documents that mix text and chunks of code).
 ---
 
 What we've discussed so far is sufficient for a project to be fully

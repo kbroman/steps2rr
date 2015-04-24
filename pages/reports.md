@@ -44,7 +44,7 @@ The construction of such reports is definitely more work than writing
 a simple script, but the product may save you a lot of time and effort
 down the road. For example, imagine that a reviewer (or coauthor)
 asks, &ldquo;Why did you omit those samples?&rdquo; You won't be left
-scratching your head; you'll have a the document that explains why.
+scratching your head; you'll have a document that explains why.
 
 ---
 

@@ -54,13 +54,12 @@ one. Then in your next project, do that plus another thing.
 
 The source for this minimal tutorial is [on github](http://github.com/kbroman/steps2rr).
 If you have suggestions for changes or improvements,
-[submit an issue](https://github.com/kbroman/steps2rr/issues) (or just
-[send me an email](http://kbroman.org/pages/about.html)).
+please [submit an issue](https://github.com/kbroman/steps2rr/issues).
 
 
-Also see my
-[git/github guide](http://kbroman.org/github_tutorial),
-[knitr in a knutshell tutorial](http://kbroman.org/knitr_knutshell),
-[minimal make tutorial](http://kbroman.org/minimal_make),
-[simple site tutorial](http://kbroman.org/simple_site),
-and [R package primer](http://kbroman.org/pkg_primer).
+Also see my [tutorials](http://kbroman.org/pages/tutorials) on
+[git/github](http://kbroman.org/github_tutorial),
+[GNU make](http://kbroman.org/minimal_make),
+[knitr](http://kbroman.org/knitr_knutshell),
+[R packages](http://kbroman.org/pkg_primer),
+and [making a web site with GitHub Pages](http://kbroman.org/simple_site).

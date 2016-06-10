@@ -22,9 +22,9 @@ description: Links to resources on reproducible research and related
 
 ### Books
 
-- [Dynamic documents with R and knitr](http://www.amazon.com/exec/obidos/ASIN/1498716962/7210-20)
-- [Reproducible research with R and RStudio](http://www.amazon.com/exec/obidos/ASIN/1498715370/7210-20)
-- [Implementing reproducible research](http://www.amazon.com/exec/obidos/ASIN/1466561599/7210-20)
+- [Dynamic documents with R and knitr](https://www.amazon.com/gp/product/1498716962?ie=UTF8&tag=7210-20)
+- [Reproducible research with R and RStudio](https://www.amazon.com/gp/product/1498715370?ie=UTF8&tag=7210-20)
+- [Implementing reproducible research](https://www.amazon.com/gp/product/1466561599?ie=UTF8&tag=7210-20)
   (PDFs of chapters at [ocf.io](https://osf.io/s9tya/))
 
 

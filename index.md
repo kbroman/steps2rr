@@ -47,6 +47,7 @@ one. Then in your next project, do that plus another thing.
 - [Package functions for reuse](pages/packages.html)
 - [Use version control](pages/version_control.html)
 - [License your software](pages/licenses.html)
+
 - [Other resources](pages/resources.html)
 
 ---

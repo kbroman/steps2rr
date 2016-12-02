@@ -58,7 +58,7 @@ description: Links to resources on reproducible research and related
 - [R package development the Leek group way](https://github.com/jtleek/rpackages)
 - [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg)
 
-### Copyright and software/data licences
+### Copyright and software/data licenses
 
 - [Victoria Stodden](http://stodden.net):
   - [What computational scientists need to know about Intellectual property law (pdf)](https://osf.io/yi8k2/)

@@ -76,4 +76,4 @@ is a huge hassle, while re-running the scripts should be super easy
 
 ---
 
-Now go to the page about [organizing your data and code](organize.html).
+Now go to the page about [automating the process](automate.html).

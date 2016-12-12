@@ -63,4 +63,4 @@ what data files contain, what scripts do, and what came from what.
 
 ---
 
-Now go to the page about [automating the process](automate.html).
+Now go to the page about [doing everything with a script](scripts.html).

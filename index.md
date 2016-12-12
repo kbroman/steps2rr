@@ -39,8 +39,8 @@ that's what I know, but I'll try to at least sketch what a
 Again, you shouldn't try to do these things all at once; start with one, or part of
 one. Then in your next project, do that plus another thing.
 
-- [Everything with a script](pages/scripts.html)
 - [Organize your data and code](pages/organize.html)
+- [Everything with a script](pages/scripts.html)
 - [Automate the process](pages/automate.html)
 - [Turn scripts into reproducible reports](pages/reports.html)
 - [Turn repeated code into functions](pages/functions.html)

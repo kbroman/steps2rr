@@ -38,7 +38,7 @@ description: Links to resources on reproducible research and related
 
 ### Organizing files and data
 
-- [Nine simple ways to make it easier to (re)use your data (paper)](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608)
+- [Nine simple ways to make it easier to (re)use your data (paper)](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608/0)
 - [Some simple guidelines for effective data management (paper)](http://www.esajournals.org/doi/abs/10.1890/0012-9623-90.2.205)
 - [Quick guide to organizing computational biology projects (paper)](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424)
 

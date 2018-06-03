@@ -32,9 +32,9 @@ Inspired by
 I thought I'd write some suggestions for the initial steps to take
 towards making one's work reproducible.
 
-I'm focusing primarily on [R](http://www.r-project.org), because
+I'm focusing primarily on [R](https://www.r-project.org), because
 that's what I know, but I'll try to at least sketch what a
-[python](http://www.python.org) person might do.
+[python](https://www.python.org) person might do.
 
 Again, you shouldn't try to do these things all at once; start with one, or part of
 one. Then in your next project, do that plus another thing.
@@ -53,15 +53,15 @@ one. Then in your next project, do that plus another thing.
 ---
 
 
-The source for this minimal tutorial is [on github](http://github.com/kbroman/steps2rr).
+The source for this minimal tutorial is [on github](https://github.com/kbroman/steps2rr).
 If you have suggestions for changes or improvements,
 please [submit an issue](https://github.com/kbroman/steps2rr/issues).
 
 
-Also see my [tutorials](http://kbroman.org/pages/tutorials) on
-[git/github](http://kbroman.org/github_tutorial),
-[GNU make](http://kbroman.org/minimal_make),
-[knitr](http://kbroman.org/knitr_knutshell),
-[R packages](http://kbroman.org/pkg_primer),
-[data organization](http://kbroman.org/dataorg),
-and [making a web site with GitHub Pages](http://kbroman.org/simple_site).
+Also see my [tutorials](https://kbroman.org/pages/tutorials) on
+[git/github](https://kbroman.org/github_tutorial),
+[GNU make](https://kbroman.org/minimal_make),
+[knitr](https://kbroman.org/knitr_knutshell),
+[R packages](https://kbroman.org/pkg_primer),
+[data organization](https://kbroman.org/dataorg),
+and [making a web site with GitHub Pages](https://kbroman.org/simple_site).

@@ -18,11 +18,11 @@ should change (and it often does), wouldn't it be nice to have one
 command that re-runs everything?
 
 You could do this with a single all-encompassing script. Even better,
-though, is to use [GNU Make](http://www.gnu.org/software/make). I
+though, is to use [GNU Make](https://www.gnu.org/software/make). I
 would argue that Make is the single most important tool for
 reproducible research.
 
-[GNU Make](http://www.gnu.org/software/make) was written for compiling
+[GNU Make](https://www.gnu.org/software/make) was written for compiling
 programs from their source code, but it can be used to coordinate any
 command-line driven process, such as the various scripts that underlie
 a data analysis project, or the construction of the figures and tables
@@ -37,7 +37,7 @@ You create a file, called `Makefile`, and then on the command line
 type `make`. Here's part of
 [an example](https://github.com/kbroman/Paper_Rqtl_Experiences/blob/master/Makefile)
 (for
-[this paper](http://openresearchsoftware.metajnl.com/article/view/jors.at/43)):
+[this paper](https://openresearchsoftware.metajnl.com/article/view/jors.at/43)):
 
     rqtlexper.pdf: rqtlexper.tex rqtlexper.bib fig1.eps fig2.eps
         pdflatex rqtlexper
@@ -79,7 +79,7 @@ won't be reconstructed. If I just edit part of the bibliography (in
 `rqtlexper.tex` won't be.
 
 To learn more about GNU Make, see my
-[minimal make tutorial](http://kbroman.org/minimal_make) and the
+[minimal make tutorial](https://kbroman.org/minimal_make) and the
 resources listed there. It's quirky but hugely valuable.
 
 ---

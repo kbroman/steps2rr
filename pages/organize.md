@@ -56,7 +56,7 @@ what data files contain, what scripts do, and what came from what.
 - **Write ReadMe files**. Even if you've organized and named things
     perfectly, you'll still want to include some documentation that
     explains what's what. A `ReadMe.txt` file (or `ReadMe.md`, for
-    [Markdown](http://daringfireball.net/projects/markdown/)) in the
+    [Markdown](https://daringfireball.net/projects/markdown/)) in the
     main directory and perhaps also in each subdirectory may be
     sufficient. Describe the files and the process. And keep the
     ReadMe files up to date as things are added or changed.

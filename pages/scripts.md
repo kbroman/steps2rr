@@ -18,8 +18,8 @@ not reproducible.
 
 - If you need to **download external data**, such as from the web, it's
   best to do so via a script, for example with
-  [wget](http://www.gnu.org/software/wget/) or
-  [curl](http://curl.haxx.se/). (Consider the R package
+  [wget](https://www.gnu.org/software/wget/) or
+  [curl](https://curl.haxx.se/). (Consider the R package
   [httr](https://github.com/hadley/httr).)  If that's not feasible,
   at least document the source of the data (and perhaps the date/time
   it was acquired).
@@ -35,9 +35,9 @@ not reproducible.
   or if you want to change some column names, don't open up the file
   and edit it by hand. Write a script that does so. I like to write
   [ruby](https://www.ruby-lang.org) scripts for this sort of thing;
-  you might use [python](http://www.python.org) or
+  you might use [python](https://www.python.org) or
   [perl](https://www.perl.org), or even
-  [R](http://www.r-project.org).
+  [R](https://www.r-project.org).
 
 - All aspects of **data cleaning should be in scripts**. If you decide
   that you need to omit a couple of subjects, don't go into the data

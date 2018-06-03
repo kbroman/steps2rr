@@ -19,9 +19,9 @@ for the data cleaning process; for example, _why_ did you omit those particular
 samples?
 
 My preference is to replace most of those scripts with _reproducible
-reports_ (using [R Markdown](http://rmarkdown.rstudio.com) and
-[knitr](http://yihui.name/knitr/), or
-[IPython notebooks](http://ipython.org/notebook.html)). Such a report
+reports_ (using [R Markdown](https://rmarkdown.rstudio.com) and
+[knitr](https://yihui.name/knitr/), or
+[Jupyter notebooks](https://jupyter.org/)). Such a report
 is a mixture of code and text: the code that does the work and your
 text that describes what you're doing and why you're doing it.
 
@@ -32,13 +32,13 @@ Compiling the report will do the work that the script would have done,
 but will also produce a report that describes the what and the _why_,
 with figures and tables that support your decisions.
 
-To learn more about [knitr](http://yihui.name/knitr) and
-[R Markdown](http://rmarkdown.rstudio.com), see my
-[knitr in a knutshell tutorial](http://kbroman.org/knitr_knutshell).
+To learn more about [knitr](https://yihui.name/knitr) and
+[R Markdown](https://rmarkdown.rstudio.com), see my
+[knitr in a knutshell tutorial](https://kbroman.org/knitr_knutshell).
 
-To learn more about IPython, see the
-[documentation and tutorials](http://ipython.org/documentation.html)
-at [its website](http://ipython.org).
+To learn more about Jupyter notebooks, see the
+[documentation](https://jupyter.org/documentation)
+at [the Jupyter Project website](https://jupyter.org/index.html).
 
 The construction of such reports is definitely more work than writing
 a simple script, but the product may save you a lot of time and effort

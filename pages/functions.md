@@ -13,7 +13,7 @@ understand. For example, consider
 and
 [this one](https://github.com/kbroman/Paper_Rqtl_Experiences/blob/master/R/rqtl_lines_code.R),
 which produce the two figures for
-[this paper](http://openresearchsoftware.metajnl.com/article/view/jors.at/43).
+[this paper](https://openresearchsoftware.metajnl.com/article/view/jors.at/43).
 (Those scripts could use some comments, couldn't they?)
 
 Scripts often contain long stretches of repeated code, too. You do

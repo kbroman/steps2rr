@@ -6,7 +6,7 @@ description: Brief discussion of the value of using formal version
              reproducibility.
 ---
 
-[Version control](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 is not strictly necessary for _reproducibility_, but it can be hugely
 useful for _sanity_ (and for managing collaborative projects, and for
 long-term efficiency).
@@ -21,12 +21,12 @@ great, but formal version control:
   if you're all making simultaneous changes to the same set of files.
 
 There are a number of different version control systems, but I'd
-recommend starting with [git](http://git-scm.com), because it's widely
-used, and because of [GitHub](http://github.com), which simplifies
+recommend starting with [git](https://git-scm.com), because it's widely
+used, and because of [GitHub](https://github.com), which simplifies
 collaboration and exploration.
 
 To get started, consider my
-[git/github guide](http://kbroman.org/github_tutorial).
+[git/github guide](https://kbroman.org/github_tutorial).
 
 Version control is a tough sell. It requires a big initial investment
 in time and effort, initial experiences are often rocky, and the

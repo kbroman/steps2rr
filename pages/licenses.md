@@ -19,11 +19,11 @@ Software licenses are about two things: _copyright_, and _protecting
 yourself_ from being held liable if your software screws something up
 somewhere down the line.
 
-In the US, [copyright](http://www.copyright.gov/circs/circ01.pdf)
+In the US, [copyright](https://www.copyright.gov/circs/circ01.pdf)
 is _automatic_, and it gives you exclusive rights to copy your code. So if
 you don't choose a license for your software, _no one else can use it!_
 
-So, [pick a license, any license](http://blog.codinghorror.com/pick-a-license-any-license/).
+So, [pick a license, any license](https://blog.codinghorror.com/pick-a-license-any-license/).
 
 There are
 [lots of different software licenses](https://tldrlegal.com/) to
@@ -32,8 +32,8 @@ all really boring to read is another part of the pain. The
 [WTFPL](http://www.wtfpl.net/) is one of the few that is not boring.)
 
 Personally, I choose between the
-[MIT license](http://en.wikipedia.org/wiki/MIT_License) and the
-[GNU General Public License (GPL)](http://www.gnu.org/copyleft/gpl.html). The
+[MIT license](https://en.wikipedia.org/wiki/MIT_License) and the
+[GNU General Public License (GPL)](https://www.gnu.org/copyleft/gpl.html). The
 MIT license is among the more permissive. The GPL is
 &ldquo;viral&rdquo; in that it extends to derivative works: software
 that incorporates code that was licensed under the GPL must also be
@@ -44,8 +44,8 @@ otherwise.
 ### Don't use a Creative Commons license for software
 
 An important thing to remember: **don't use a
-[Creative Commons](http://creativecommons.org/) (CC) license for
-software**. Creative Commons licenses (like [CC-BY](http://creativecommons.org/licenses/by/3.0/))
+[Creative Commons](https://creativecommons.org/) (CC) license for
+software**. Creative Commons licenses (like [CC-BY](https://creativecommons.org/licenses/by/3.0/))
 are great, but they're for things like articles, books, and
 videos, **but not software**. As
 [they say in their FAQ](https://wiki.creativecommons.org/FAQ#Can_I_use_a_Creative_Commons_license_for_software.3F):
@@ -57,7 +57,7 @@ for your software.
 
 ### What about CC0?
 
-[CC0](http://creativecommons.org/publicdomain/zero/1.0/) (public
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/) (public
 domain) seems appropriate for software: you're just saying that anyone
 can do anything with the code.
 
@@ -65,12 +65,12 @@ But in some states (e.g., Maryland, I think), software is treated as a
 &ldquo;good&rdquo; (like a car), and so if your code causes something
 terrible to happen, you could be sued for damages. Using a lenient
 license, like the
-[MIT license](http://en.wikipedia.org/wiki/MIT_License), eliminates
+[MIT license](https://en.wikipedia.org/wiki/MIT_License), eliminates
 that potential problem through the &ldquo;no warranty&rdquo; clause.
 
-So, use [CC0](http://creativecommons.org/publicdomain/zero/1.0/) for
+So, use [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for
 your lecture notes, slides, and web sites, but use a lenient license,
-like the [MIT license](http://en.wikipedia.org/wiki/MIT_License), for
+like the [MIT license](https://en.wikipedia.org/wiki/MIT_License), for
 your software.
 
 ### Indicating your choice
@@ -80,11 +80,11 @@ in a `ReadMe` file with your project, or in a separate `License` file,
 or both.
 
 With the MIT license, I would include the
-[full text](http://opensource.org/licenses/MIT), filling in your
+[full text](https://opensource.org/licenses/MIT), filling in your
 personal details.
 
 With the GPL, take a look at
-[these instructions](http://www.gnu.org/licenses/gpl-howto.html):
+[these instructions](https://www.gnu.org/licenses/gpl-howto.html):
 
 > the process involves adding two elements to each source file of your
 > program: a copyright notice (such as &ldquo;Copyright 1999 Terry Jones&rdquo;),

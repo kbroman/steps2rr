@@ -58,7 +58,7 @@ If you have suggestions for changes or improvements,
 please [submit an issue](https://github.com/kbroman/steps2rr/issues).
 
 
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
+Also see my [tutorials](https://kbroman.org/tutorials) on
 [git/github](https://kbroman.org/github_tutorial),
 [GNU make](https://kbroman.org/minimal_make),
 [knitr](https://kbroman.org/knitr_knutshell),

@@ -7,7 +7,7 @@ description: Links to resources on reproducible research and related
 
 ### General
 
-- [ROpenSci](https://ropensci.org)'s [Reproducibility guide](https://ropensci.github.io/reproducibility-guide/)
+- [ROpenSci](https://ropensci.org)'s [Reproducibility guide](https://ropensci-archive.github.io/reproducibility-guide/)
 
 ### Courses
 

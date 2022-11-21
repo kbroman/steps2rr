@@ -13,7 +13,7 @@ description: Links to resources on reproducible research and related
 
 - [Tools for Reproducible Research](https://kbroman.org/Tools4RR)
 - [Reproducible and collaborative data science](https://github.com/stat157/fall-2013)
-- [Data wrangling, exploration, and analysis with R](http://stat545-ubc.github.io/)
+- [Data wrangling, exploration, and analysis with R](https://stat545.com/)
 - [Reproducible Research](https://www.coursera.org/course/repdata)
   (part of the Johns Hopkins
   [data science specialization](https://www.coursera.org/specialization/jhudatascience/1)

@@ -23,6 +23,7 @@ description: Links to resources on reproducible research and related
 ### Books
 
 - [Dynamic documents with R and knitr](https://www.amazon.com/gp/product/1498716962?ie=UTF8&tag=7210-20)
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [Reproducible research with R and RStudio](https://www.amazon.com/gp/product/1498715370?ie=UTF8&tag=7210-20)
 - [Implementing reproducible research](https://www.amazon.com/gp/product/1466561599?ie=UTF8&tag=7210-20)
   (PDFs of chapters at [ocf.io](https://osf.io/s9tya/))

@@ -49,7 +49,7 @@ description: Links to resources on reproducible research and related
 - [knitr](https://yihui.name/knitr)
 - [R Markdown](https://rmarkdown.rstudio.com)
 - [Markdown](https://daringfireball.net/projects/markdown/)
-- [Jupyter notebooks](https://jupyter)
+- [Jupyter notebooks](https://jupyter.org/)
 
 ### R packages
 

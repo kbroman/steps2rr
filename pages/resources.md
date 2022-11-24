@@ -58,6 +58,7 @@ description: Links to resources on reproducible research and related
 - [Hilary Parker](https://hilaryparker.com/)'s [tutorial on R packages](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 - [R package development the Leek group way](https://github.com/jtleek/rpackages)
 - [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg)
+- [rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)
 
 ### Copyright and software/data licenses
 

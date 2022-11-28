@@ -20,7 +20,7 @@ not reproducible.
   best to do so via a script, for example with
   [wget](https://www.gnu.org/software/wget/) or
   [curl](https://curl.haxx.se/). (Consider the R package
-  [httr](https://github.com/hadley/httr).)  If that's not feasible,
+  [httr](https://httr.r-lib.org/).)  If that's not feasible,
   at least document the source of the data (and perhaps the date/time
   it was acquired).
 

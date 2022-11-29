@@ -54,7 +54,7 @@ description: Links to resources on reproducible research and related
 ### R packages
 
 - [R package primer](https://kbroman.org/pkg_primer)
-- [Hadley Wickham](http://had.co.nz/)'s [R packages book](http://r-pkgs.had.co.nz/)
+- [Hadley Wickham](https://hadley.nz/)'s [R packages book](https://r-pkgs.org/)
 - [Hilary Parker](https://hilaryparker.com/)'s [tutorial on R packages](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 - [R package development the Leek group way](https://github.com/jtleek/rpackages)
 - [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg)

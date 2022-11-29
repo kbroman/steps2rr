@@ -18,8 +18,8 @@ It's also a good opportunity to _document_ those functions.
 
 Writing R packages is really not so hard as one might think. See my
 [R package primer](https://kbroman.org/pkg_primer),
-[Hadley Wickham](http://had.co.nz/)'s
-[R packages book](http://r-pkgs.had.co.nz/), or
+[Hadley Wickham](https://hadley.nz/)'s
+[R packages book](https://r-pkgs.org/), or
 [Hilary Parker](https://hilaryparker.com/)'s
 [tutorial on R packages](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/).
 If you've written a

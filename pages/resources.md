@@ -8,6 +8,7 @@ description: Links to resources on reproducible research and related
 ### General
 
 - [ROpenSci](https://ropensci.org)'s [Reproducibility guide](https://ropensci-archive.github.io/reproducibility-guide/)
+- The [Turing Way](https://the-turing-way.start.page/) [handbook](https://book.the-turing-way.org/)
 
 ### Courses
 

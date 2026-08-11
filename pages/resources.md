@@ -51,6 +51,7 @@ description: Links to resources on reproducible research and related
 - [R Markdown](https://rmarkdown.rstudio.com)
 - [Markdown](https://daringfireball.net/projects/markdown/)
 - [Jupyter notebooks](https://jupyter.org/)
+- [Quarto](https://quarto.org/)
 
 ### R packages
 
